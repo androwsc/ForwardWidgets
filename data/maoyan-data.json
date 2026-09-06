@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-09-06T03:39:36.396+08:00",
+  "last_updated": "2026-09-06T09:42:34.753+08:00",
   "tv": {
     "全网": [
-      {
-        "id": 286686,
-        "type": "tmdb",
-        "title": "生逢其时",
-        "description": "八十年代初，青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的“与众不同”，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样的存在。另一边的曹信，一路走来都是家长口中“别人家的孩子”，然而光环之下却始终伴随着父亲的严苛要求。当特立独行、勇敢倔强的少女齐时，遇上乖巧听话、优秀自律的少年曹信，两个家庭也在邻里间日积月累的相处中，也因荒唐“换子”碰撞出了眼泪的故事和“新生”的契机。孩子们经历着关于亲情、友情、爱情的考验，大人们也在面对关于事业、婚姻、家庭的难题。在时代洪流中，纵使生活跌跌撞撞，他们亦携手缝缝补补修炼人生，共同找寻属于自己的人生和幸福。",
-        "rating": 9,
-        "voteCount": 1,
-        "popularity": 15.8497,
-        "releaseDate": "2026-09-03",
-        "posterPath": "/q2ulZwiuO9Gg0bVziimr8CXHdpk.jpg",
-        "backdropPath": "/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
-        "mediaType": "tv",
-        "genreTitle": "家庭,剧情"
-      },
       {
         "id": 299952,
         "type": "tmdb",
@@ -29,6 +15,20 @@
         "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 286686,
+        "type": "tmdb",
+        "title": "生逢其时",
+        "description": "八十年代初，青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的“与众不同”，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样的存在。另一边的曹信，一路走来都是家长口中“别人家的孩子”，然而光环之下却始终伴随着父亲的严苛要求。当特立独行、勇敢倔强的少女齐时，遇上乖巧听话、优秀自律的少年曹信，两个家庭也在邻里间日积月累的相处中，也因荒唐“换子”碰撞出了眼泪的故事和“新生”的契机。孩子们经历着关于亲情、友情、爱情的考验，大人们也在面对关于事业、婚姻、家庭的难题。在时代洪流中，纵使生活跌跌撞撞，他们亦携手缝缝补补修炼人生，共同找寻属于自己的人生和幸福。",
+        "rating": 9,
+        "voteCount": 1,
+        "popularity": 15.8497,
+        "releaseDate": "2026-09-03",
+        "posterPath": "/q2ulZwiuO9Gg0bVziimr8CXHdpk.jpg",
+        "backdropPath": "/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
+        "mediaType": "tv",
+        "genreTitle": "家庭,剧情"
       },
       {
         "id": 287496,
@@ -45,20 +45,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 286988,
-        "type": "tmdb",
-        "title": "飞到我心上",
-        "description": "阮思娴因航空公司取消飞行员培训计划而辞职学飞，三年后以优异成绩毕业并踏上机长之路。与此同时，傅明予面临公司改革的重重阻碍，两人在梦想与现实的碰撞中经历误会与挑战，逐渐走向彼此理解。",
-        "rating": 8,
-        "voteCount": 1,
-        "popularity": 23.6248,
-        "releaseDate": "2026-08-31",
-        "posterPath": "/3C1GeXISPpbTZopJCKZ3a5WduTh.jpg",
-        "backdropPath": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情,喜剧"
-      },
-      {
         "id": 280133,
         "type": "tmdb",
         "title": "藏锋",
@@ -71,6 +57,20 @@
         "backdropPath": "/iHShzy0Fa1WDbjFMJqxZV5nLwOQ.jpg",
         "mediaType": "tv",
         "genreTitle": "犯罪,悬疑"
+      },
+      {
+        "id": 286988,
+        "type": "tmdb",
+        "title": "飞到我心上",
+        "description": "阮思娴因航空公司取消飞行员培训计划而辞职学飞，三年后以优异成绩毕业并踏上机长之路。与此同时，傅明予面临公司改革的重重阻碍，两人在梦想与现实的碰撞中经历误会与挑战，逐渐走向彼此理解。",
+        "rating": 8,
+        "voteCount": 1,
+        "popularity": 21.5595,
+        "releaseDate": "2026-08-31",
+        "posterPath": "/3C1GeXISPpbTZopJCKZ3a5WduTh.jpg",
+        "backdropPath": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情,喜剧"
       },
       {
         "id": 286322,
@@ -87,20 +87,6 @@
         "genreTitle": "喜剧,剧情"
       },
       {
-        "id": 294487,
-        "type": "tmdb",
-        "title": "金色",
-        "description": "三十万两黄金突现大漠，传言寻金之人皆成厉鬼，相互厮杀。横遭灭门的女子孤闯大漠，决心复仇！权欲之争暗涌，一群江湖侠客纷纷卷入这场恩怨情仇，共谱一段新武侠故事。",
-        "rating": 9,
-        "voteCount": 1,
-        "popularity": 7.2298,
-        "releaseDate": "2026-08-25",
-        "posterPath": "/cxRa9PDb9gGyRLSJE1NHJNt5gl9.jpg",
-        "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 289761,
         "type": "tmdb",
         "title": "醒来",
@@ -111,6 +97,20 @@
         "releaseDate": "2026-08-26",
         "posterPath": "/4fKwBMS8Gj6uJRbLzeNn5JNY54M.jpg",
         "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 294487,
+        "type": "tmdb",
+        "title": "金色",
+        "description": "三十万两黄金突现大漠，传言寻金之人皆成厉鬼，相互厮杀。横遭灭门的女子孤闯大漠，决心复仇！权欲之争暗涌，一群江湖侠客纷纷卷入这场恩怨情仇，共谱一段新武侠故事。",
+        "rating": 9,
+        "voteCount": 1,
+        "popularity": 7.2298,
+        "releaseDate": "2026-08-25",
+        "posterPath": "/cxRa9PDb9gGyRLSJE1NHJNt5gl9.jpg",
+        "backdropPath": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -263,7 +263,7 @@
         "description": "人类的欲望，可驱使我们超越自我，然而，当欲望失控，过份贪图金钱与权势、追求不属于自己的爱，非份之想被无限放大，不经意间，便陷入道德矛盾的深渊，犯下种种非份之罪……新界东重案组接连调查几宗案件，包括无脸女尸、石棺禁恋、一亿杀机、危险游戏、肮脏的子弹、恐怖情人，错综复杂的线索、缠绕不清的关系，构成一桩桩匪夷所思的迷案，揭露触摸不透的人性黑暗面。",
         "rating": 7,
         "voteCount": 1,
-        "popularity": 5.8649,
+        "popularity": 5.1871,
         "releaseDate": "2026-06-29",
         "posterPath": "/2snG7uD9XyccAXlqJI3oTsUgQie.jpg",
         "backdropPath": "/dpVy32tCvsVENVMjlU4cj7CycG5.jpg",
@@ -315,6 +315,20 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 291856,
+        "type": "tmdb",
+        "title": "重器",
+        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
+        "rating": 8,
+        "voteCount": 3,
+        "popularity": 8.4432,
+        "releaseDate": "2026-08-10",
+        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
         "id": 272938,
         "type": "tmdb",
         "title": "师兄太稳健",
@@ -327,20 +341,6 @@
         "backdropPath": "/8zsKL8gDjv7NI7HHk4POIBMl2jE.jpg",
         "mediaType": "tv",
         "genreTitle": "喜剧,动作冒险,科幻奇幻"
-      },
-      {
-        "id": 291856,
-        "type": "tmdb",
-        "title": "重器",
-        "description": "以改革开放初期至1997年《刑诉法》《刑法》修订为背景，讲述陈一众、余高远、张丽慧、夏英杰等法学院毕业生在不同司法岗位上历经风雨、共同见证中国法治发展进程的故事，展现他们在时代浪潮中成长、抉择与命运交织的群像篇章。",
-        "rating": 8,
-        "voteCount": 3,
-        "popularity": 10.5874,
-        "releaseDate": "2026-08-10",
-        "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-        "backdropPath": "/sUTK5UjUNud0d5hcEbhOk4RTqII.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
       },
       {
         "id": 289139,
@@ -413,18 +413,18 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 331662,
+        "id": 278605,
         "type": "tmdb",
-        "title": "能有多大事",
-        "description": "退休后原本计划与晚年恋人结婚并周游世界的许多金，却因小儿子被骗走巨款而打乱了生活。尽管法律上无需为成年儿子的债务负责，他仍选择卖房打工，承担起替儿子偿还债务的责任。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 5.2851,
-        "releaseDate": "2026-08-14",
-        "posterPath": "/ncWsJwUqSF8D4LipFlhVr3Zi5xp.jpg",
-        "backdropPath": "/nMZMX67QIVyXTGOTIC1RXHZXPWF.jpg",
+        "title": "南部档案",
+        "description": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
+        "rating": 6.625,
+        "voteCount": 8,
+        "popularity": 10.8113,
+        "releaseDate": "2026-06-11",
+        "posterPath": "/2QcMONqmPUeBJyzTe9G9GahGbqz.jpg",
+        "backdropPath": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
         "mediaType": "tv",
-        "genreTitle": "剧情"
+        "genreTitle": "动作冒险,悬疑"
       }
     ],
     "腾讯视频": [
@@ -513,20 +513,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 330440,
-        "type": "tmdb",
-        "title": "夜语记",
-        "description": "出身贫寒的酿酒师叶小唯遭遇爱人程桉、恩师林晚媚的双重背叛。她从恨意中涅槃重生，借私生女桑落的身份入住程家。她步步为营，周旋在各怀心思的豪门众人间，引猎物上钩。叶小唯的人生始于22岁的盛夏，终于22岁的寒冬。踏过荆棘，玫瑰终将滴血盛开。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 2.0593,
-        "releaseDate": "2026-08-02",
-        "posterPath": "/2ah8irNR08fONfeQkMlvnc3143w.jpg",
-        "backdropPath": "/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 289139,
         "type": "tmdb",
         "title": "这一秒过火",
@@ -537,6 +523,20 @@
         "releaseDate": "2026-07-19",
         "posterPath": "/4e1ycw3hY6aAtUGIsLOk80gTobn.jpg",
         "backdropPath": "/mmXea9UCZ83TMhHaSkDAJCHKr0S.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 330440,
+        "type": "tmdb",
+        "title": "夜语记",
+        "description": "出身贫寒的酿酒师叶小唯遭遇爱人程桉、恩师林晚媚的双重背叛。她从恨意中涅槃重生，借私生女桑落的身份入住程家。她步步为营，周旋在各怀心思的豪门众人间，引猎物上钩。叶小唯的人生始于22岁的盛夏，终于22岁的寒冬。踏过荆棘，玫瑰终将滴血盛开。",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 2.0593,
+        "releaseDate": "2026-08-02",
+        "posterPath": "/2ah8irNR08fONfeQkMlvnc3143w.jpg",
+        "backdropPath": "/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -577,7 +577,7 @@
         "description": "阮思娴因航空公司取消飞行员培训计划而辞职学飞，三年后以优异成绩毕业并踏上机长之路。与此同时，傅明予面临公司改革的重重阻碍，两人在梦想与现实的碰撞中经历误会与挑战，逐渐走向彼此理解。",
         "rating": 8,
         "voteCount": 1,
-        "popularity": 23.6248,
+        "popularity": 21.5595,
         "releaseDate": "2026-08-31",
         "posterPath": "/3C1GeXISPpbTZopJCKZ3a5WduTh.jpg",
         "backdropPath": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
@@ -655,20 +655,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 295599,
-        "type": "tmdb",
-        "title": "御廷谣",
-        "description": "立志凭科举入仕、改写底层命运的孤女孟廷辉因意外结识微服私访的少年新帝英寡，二人联手铲除沙州官匪，英寡赏识其胆识智谋，暗中助力她赴京赶考。孟廷辉入京后遭科举舞弊构陷，凭智勇自证清白，被英寡破格任命为察闻院主事，清查虎啸帮、晚香阁等黑恶势力，逐步牵出血月会复国阴谋与朝堂权斗。二人从君臣知己渐生情愫，历经身世谜团、朝堂阻力与边境战乱，最终平定叛乱、整肃朝纲，携手共护江山万民。",
-        "rating": 7.8,
-        "voteCount": 5,
-        "popularity": 12.3052,
-        "releaseDate": "2026-07-28",
-        "posterPath": "/v8Giwuf0l0XKoD29kWb9RSxiYku.jpg",
-        "backdropPath": "/qKGSZaLLbfCaoTbE88oOwdAsTm8.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 283952,
         "type": "tmdb",
         "title": "良陈美锦",
@@ -683,6 +669,34 @@
         "genreTitle": "剧情,战争政治"
       },
       {
+        "id": 295599,
+        "type": "tmdb",
+        "title": "御廷谣",
+        "description": "立志凭科举入仕、改写底层命运的孤女孟廷辉因意外结识微服私访的少年新帝英寡，二人联手铲除沙州官匪，英寡赏识其胆识智谋，暗中助力她赴京赶考。孟廷辉入京后遭科举舞弊构陷，凭智勇自证清白，被英寡破格任命为察闻院主事，清查虎啸帮、晚香阁等黑恶势力，逐步牵出血月会复国阴谋与朝堂权斗。二人从君臣知己渐生情愫，历经身世谜团、朝堂阻力与边境战乱，最终平定叛乱、整肃朝纲，携手共护江山万民。",
+        "rating": 7.8,
+        "voteCount": 5,
+        "popularity": 12.3052,
+        "releaseDate": "2026-07-28",
+        "posterPath": "/v8Giwuf0l0XKoD29kWb9RSxiYku.jpg",
+        "backdropPath": "/qKGSZaLLbfCaoTbE88oOwdAsTm8.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 214875,
+        "type": "tmdb",
+        "title": "汪汪队之小砾与工程家族",
+        "description": "还有什么比在工程车里养一只小狗更有趣的呢？ 很多工程车辆里都有很多小狗。小砾(Rubble)和他的家人——姨妈、爷爷、表兄弟姐妹等等——正在努力工作，让他们的小镇建造者湾成为一个非常适合居住的地方。",
+        "rating": 7.1,
+        "voteCount": 31,
+        "popularity": 21.0638,
+        "releaseDate": "2023-02-03",
+        "posterPath": "/5MA1tqT0yI57IlPBy0KRN6G2mhN.jpg",
+        "backdropPath": "/5SWWe369D4Fjs2RDVhMagNJLlps.jpg",
+        "mediaType": "tv",
+        "genreTitle": "动画,儿童"
+      },
+      {
         "id": 283961,
         "type": "tmdb",
         "title": "你是迟来的欢喜",
@@ -693,20 +707,6 @@
         "releaseDate": "2026-03-26",
         "posterPath": "/yWD7slh3uKb9LZNKokSo84zD7xa.jpg",
         "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
-        "id": 330364,
-        "type": "tmdb",
-        "title": "米良与麦青",
-        "description": "剧情围绕返乡大学生米良与新任村支书麦青展开，讲述两人为建设家乡进行探索和尝试，通过推行“放鹿归山”生态实践、开展“心灵环保”行动、组建“良心督察队”、建设蔬菜大棚等举措，历经重重磨难，最终带领村民实现生态与心灵双环保的故事。该剧以长春市双阳区鹿乡镇的梅花鹿产业为创作题材，取景地双阳区太平镇被打造为“鹿鸣村”影视基地，剧中融入了东北乡村风貌、人才引进、乡村环境整治等元素",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.508,
-        "releaseDate": "2026-07-31",
-        "posterPath": "/jg4ggctGpf3O3xBrYaJwCwxt9ZR.jpg",
-        "backdropPath": "/dULlXXgjiWczum9UqvJJsEFnPH9.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
       }
@@ -825,20 +825,6 @@
         "backdropPath": "/lUIY59PL7uEdOLPIxP2GOv6gwSn.jpg",
         "mediaType": "tv",
         "genreTitle": "真人秀"
-      },
-      {
-        "id": 330926,
-        "type": "tmdb",
-        "title": "一路向海的少年",
-        "description": "《一路向海的少年》是一档聚焦新时代青年成长历练的公路纪实真人秀。节目以\"从离海最远的地方出发，一路向海\"为核心立意，讲述五位少年从亚欧大陆腹地的新疆启程，以自驾方式完成八站新疆公路之旅，最终奔赴心之向往的海岛。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.7778,
-        "releaseDate": "2026-08-06",
-        "posterPath": "/3bQO1x3kmGiKWLUbc6jRt1uwsKJ.jpg",
-        "backdropPath": "/t392uv2WU6ojezRpuDgGZDJS5pb.jpg",
-        "mediaType": "tv",
-        "genreTitle": "真人秀"
       }
     ],
     "优酷": [
@@ -933,7 +919,7 @@
         "description": "作为一档治愈户外综艺，一群短剧演员集体从剧组“跑路”后，把自己还给大自然。甩开通告单，钻进烟火气，搭一座短剧人的乌托邦。把时间还给自己，只留真实、自由与治愈。",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 2.4063,
+        "popularity": 2.48,
         "releaseDate": "2026-05-29",
         "posterPath": "/tHHBkgiSHr6Gcb8T2TvxRuOvJef.jpg",
         "backdropPath": "/fVR6mOXQBLCVR5moX51PBHwkYfT.jpg",
@@ -1147,7 +1133,7 @@
         "description": "《一路向海的少年》是一档聚焦新时代青年成长历练的公路纪实真人秀。节目以\"从离海最远的地方出发，一路向海\"为核心立意，讲述五位少年从亚欧大陆腹地的新疆启程，以自驾方式完成八站新疆公路之旅，最终奔赴心之向往的海岛。",
         "rating": 0,
         "voteCount": 0,
-        "popularity": 1.7778,
+        "popularity": 1.8973,
         "releaseDate": "2026-08-06",
         "posterPath": "/3bQO1x3kmGiKWLUbc6jRt1uwsKJ.jpg",
         "backdropPath": "/t392uv2WU6ojezRpuDgGZDJS5pb.jpg",
@@ -1241,20 +1227,6 @@
         "genreTitle": "真人秀"
       },
       {
-        "id": 154620,
-        "type": "tmdb",
-        "title": "温柔的背叛",
-        "description": "世界上没有一个男人不渴望浪漫的恋情，当美好的恋情随着婚姻降临转化成亲情，人们便开始渴望另外一份浪漫而刺激的情感。于是，每个人潜意识里都觉得自己需要一个情人，婚外偷情不知从何时起已经成了一个已婚男人必须思考的问题。但是，人又怎能挣脱亲情、社会、道德、名誉和伦理的束缚。\n\n　　一份禁忌的感情到底是爱情的增值还是背叛，是情感的失衡还是归属，是苦涩的毒酒还是醇美的甘露？曾经幸福、宁静的家庭在突如其来的背叛面前，如同大海巨浪中的小船，承受致命的颠簸。家庭将何去何从。曾经美好、炙热的爱情在背叛与伤害之中分崩离析，情感和理智如同绷得笔直的细线，悬于一线之间。情感正遭受着前所未有的考验。\n\n　　残破不堪的爱情如何弥补，伤痕累累的心灵能否愈合。情感已沦陷，道德已沦丧，一段不堪回首的人生如何拯救。一切悬而未决，扑朔迷离，做出抉择的人们将付出怎样的代价……\n\n　　一段突如其来的感情到来。如何在面临道德与情感的抉择中做出正确的选择，是对每个人情感和理性的最大考验。刺激而诱人的不伦感情，在软玉温香背后隐藏着人们无法预知更无法操控的黑色旋涡，它吞噬着人们的理智、名誉、金钱、权利，吞噬掉一切你拥有的，想要的，在乎的！而它又散发着迷人的甜香，充满着诱惑，让人挥之不去、欲罢不能。它，就时刻包围着每个人，就在我们的身边，就在你我的身后……",
-        "rating": 7.5,
-        "voteCount": 2,
-        "popularity": 2.3521,
-        "releaseDate": "2009-10-02",
-        "posterPath": "/sN3DnytlARoxoIqYaqo9jiwCwGW.jpg",
-        "backdropPath": "/ykukpFcvsJy2WRIsAtPLBQYc8wk.jpg",
-        "mediaType": "tv",
-        "genreTitle": "家庭"
-      },
-      {
         "id": 331569,
         "type": "tmdb",
         "title": "不想睡的星期五",
@@ -1269,6 +1241,20 @@
         "genreTitle": "真人秀"
       },
       {
+        "id": 154620,
+        "type": "tmdb",
+        "title": "温柔的背叛",
+        "description": "世界上没有一个男人不渴望浪漫的恋情，当美好的恋情随着婚姻降临转化成亲情，人们便开始渴望另外一份浪漫而刺激的情感。于是，每个人潜意识里都觉得自己需要一个情人，婚外偷情不知从何时起已经成了一个已婚男人必须思考的问题。但是，人又怎能挣脱亲情、社会、道德、名誉和伦理的束缚。\n\n　　一份禁忌的感情到底是爱情的增值还是背叛，是情感的失衡还是归属，是苦涩的毒酒还是醇美的甘露？曾经幸福、宁静的家庭在突如其来的背叛面前，如同大海巨浪中的小船，承受致命的颠簸。家庭将何去何从。曾经美好、炙热的爱情在背叛与伤害之中分崩离析，情感和理智如同绷得笔直的细线，悬于一线之间。情感正遭受着前所未有的考验。\n\n　　残破不堪的爱情如何弥补，伤痕累累的心灵能否愈合。情感已沦陷，道德已沦丧，一段不堪回首的人生如何拯救。一切悬而未决，扑朔迷离，做出抉择的人们将付出怎样的代价……\n\n　　一段突如其来的感情到来。如何在面临道德与情感的抉择中做出正确的选择，是对每个人情感和理性的最大考验。刺激而诱人的不伦感情，在软玉温香背后隐藏着人们无法预知更无法操控的黑色旋涡，它吞噬着人们的理智、名誉、金钱、权利，吞噬掉一切你拥有的，想要的，在乎的！而它又散发着迷人的甜香，充满着诱惑，让人挥之不去、欲罢不能。它，就时刻包围着每个人，就在我们的身边，就在你我的身后……",
+        "rating": 7.5,
+        "voteCount": 2,
+        "popularity": 2.3521,
+        "releaseDate": "2009-10-02",
+        "posterPath": "/sN3DnytlARoxoIqYaqo9jiwCwGW.jpg",
+        "backdropPath": "/ykukpFcvsJy2WRIsAtPLBQYc8wk.jpg",
+        "mediaType": "tv",
+        "genreTitle": "家庭"
+      },
+      {
         "id": 333124,
         "type": "tmdb",
         "title": "娜就聊姐姐",
@@ -1281,6 +1267,20 @@
         "backdropPath": "/wHUVfoF8rJYpfruN9erUn3MChuI.jpg",
         "mediaType": "tv",
         "genreTitle": "真人秀"
+      },
+      {
+        "id": 330354,
+        "type": "tmdb",
+        "title": "心动双重奏",
+        "description": "《心动双重奏》首档代际交友真人秀，8位单身青年携长辈开启13天寻爱之旅。以青年心动为主线、长辈陪伴为辅线，纪实记录约会相处点滴，融合心动氛围感、家庭温情与现实婚恋视角，呈现兼具浪漫与烟火气的双向寻爱故事。",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 2.0975,
+        "releaseDate": "2026-07-30",
+        "posterPath": "",
+        "backdropPath": "",
+        "mediaType": "tv",
+        "genreTitle": ""
       }
     ]
   }
