@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T22:32:16.692+08:00",
+  "last_updated": "2026-09-07T03:42:11.107+08:00",
   "tv": {
     "全网": [
       {
@@ -21,7 +21,7 @@
         "type": "tmdb",
         "title": "宿敌交锋",
         "description": "洛杉矶警局一名坚韧不拔的警探执着地追捕犯下多起嚣张劫案的神偷 — 双方只有一人能够胜出。",
-        "rating": 7.697,
+        "rating": 7.706,
         "voteCount": 109,
         "popularity": 14.3184,
         "releaseDate": "2026-05-14",
@@ -357,6 +357,20 @@
         "genreTitle": "剧情"
       },
       {
+        "id": 285250,
+        "type": "tmdb",
+        "title": "蝉",
+        "description": "生父是绑架犯，继父是刑警的刑辩律师，多年前遭人报复痛失妻儿的大法官，善用人心，游走灰色地带的邪魅律政精英，三个孤独的陌生人在硬核案件的刑事辩护中互相博弈，却越发惺惺相惜，是对手也似亲人，螳螂捕蝉，黄雀在后，三人间，互为猎物，亦互为猎手，究竟谁才是黄雀，谁又是那只蛰伏十二年，只为自由鸣叫，收获一季响亮夏天的蝉？",
+        "rating": 8,
+        "voteCount": 2,
+        "popularity": 6.4347,
+        "releaseDate": "2026-08-20",
+        "posterPath": "/ilpjaXnJOpPvQZDXNAvdFagmXkX.jpg",
+        "backdropPath": "/32quYTPi9s0SUITI6xUVkYR1bwf.jpg",
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
+      },
+      {
         "id": 295558,
         "type": "tmdb",
         "title": "雀骨",
@@ -385,18 +399,18 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 285250,
+        "id": 278605,
         "type": "tmdb",
-        "title": "蝉",
-        "description": "生父是绑架犯，继父是刑警的刑辩律师，多年前遭人报复痛失妻儿的大法官，善用人心，游走灰色地带的邪魅律政精英，三个孤独的陌生人在硬核案件的刑事辩护中互相博弈，却越发惺惺相惜，是对手也似亲人，螳螂捕蝉，黄雀在后，三人间，互为猎物，亦互为猎手，究竟谁才是黄雀，谁又是那只蛰伏十二年，只为自由鸣叫，收获一季响亮夏天的蝉？",
-        "rating": 8,
-        "voteCount": 2,
-        "popularity": 6.4347,
-        "releaseDate": "2026-08-20",
-        "posterPath": "/ilpjaXnJOpPvQZDXNAvdFagmXkX.jpg",
-        "backdropPath": "/32quYTPi9s0SUITI6xUVkYR1bwf.jpg",
+        "title": "南部档案",
+        "description": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
+        "rating": 6.625,
+        "voteCount": 8,
+        "popularity": 10.6587,
+        "releaseDate": "2026-06-11",
+        "posterPath": "/2QcMONqmPUeBJyzTe9G9GahGbqz.jpg",
+        "backdropPath": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
         "mediaType": "tv",
-        "genreTitle": "悬疑"
+        "genreTitle": "动作冒险,悬疑"
       },
       {
         "id": 283780,
@@ -411,20 +425,6 @@
         "backdropPath": "/sgC8hgeZl1ZEjn2xAXGyFC86U6N.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 278605,
-        "type": "tmdb",
-        "title": "南部档案",
-        "description": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
-        "rating": 6.625,
-        "voteCount": 8,
-        "popularity": 10.6587,
-        "releaseDate": "2026-06-11",
-        "posterPath": "/2QcMONqmPUeBJyzTe9G9GahGbqz.jpg",
-        "backdropPath": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
-        "mediaType": "tv",
-        "genreTitle": "动作冒险,悬疑"
       }
     ],
     "腾讯视频": [
@@ -433,7 +433,7 @@
         "type": "tmdb",
         "title": "宿敌交锋",
         "description": "洛杉矶警局一名坚韧不拔的警探执着地追捕犯下多起嚣张劫案的神偷 — 双方只有一人能够胜出。",
-        "rating": 7.697,
+        "rating": 7.706,
         "voteCount": 109,
         "popularity": 14.3184,
         "releaseDate": "2026-05-14",
@@ -513,20 +513,6 @@
         "genreTitle": "剧情"
       },
       {
-        "id": 332255,
-        "type": "tmdb",
-        "title": "法医秦明之蚀骨时差",
-        "description": "法医秦明通过玩具对讲机意外与三十年前的父亲秦天取得联系，两代警察跨越时空联手追查真相。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 4.4526,
-        "releaseDate": "2026-08-21",
-        "posterPath": "/ymNnfFxNcYDJpgRT2mSGw0pc6f6.jpg",
-        "backdropPath": "/95sQrTcRXUQZ2jodTV0zUKaF42y.jpg",
-        "mediaType": "tv",
-        "genreTitle": "科幻奇幻,悬疑"
-      },
-      {
         "id": 289139,
         "type": "tmdb",
         "title": "这一秒过火",
@@ -567,6 +553,20 @@
         "backdropPath": "/67fpYTlrXKF1mCUhD8w0ycEKD11.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 285250,
+        "type": "tmdb",
+        "title": "蝉",
+        "description": "生父是绑架犯，继父是刑警的刑辩律师，多年前遭人报复痛失妻儿的大法官，善用人心，游走灰色地带的邪魅律政精英，三个孤独的陌生人在硬核案件的刑事辩护中互相博弈，却越发惺惺相惜，是对手也似亲人，螳螂捕蝉，黄雀在后，三人间，互为猎物，亦互为猎手，究竟谁才是黄雀，谁又是那只蛰伏十二年，只为自由鸣叫，收获一季响亮夏天的蝉？",
+        "rating": 8,
+        "voteCount": 2,
+        "popularity": 6.4347,
+        "releaseDate": "2026-08-20",
+        "posterPath": "/ilpjaXnJOpPvQZDXNAvdFagmXkX.jpg",
+        "backdropPath": "/32quYTPi9s0SUITI6xUVkYR1bwf.jpg",
+        "mediaType": "tv",
+        "genreTitle": "悬疑"
       }
     ],
     "芒果TV": [
@@ -613,20 +613,6 @@
         "genreTitle": "动作冒险"
       },
       {
-        "id": 291392,
-        "type": "tmdb",
-        "title": "野狗骨头",
-        "description": "20世纪90年代，陈异和苗靖因父母的相识而结缘。起初陈异对苗靖充满敌意，直到一次受伤后，苗靖的善良让两人关系开始转变。然而好景不长，陈父去世、苗母消失，两家大人并未走到一起，两个孩子却不得不相依为命。来到大学，苗靖勇敢告白，陈异却被卷入纵火案，成为关键证人，为保护苗靖，他逼她离开了藤城，配合警方抓捕嫌犯。多年后，陈异经营着一家台球厅，苗靖则为了好运物流的审计工作回到藤城。两人重逢，陈异因当年纵火案，对好运老板张宾早就心存警惕，试图阻止苗靖前去工作未果。张宾的走私生意逐渐暴露，为保护苗靖，陈异只能以身入局，两人并肩作战，配合警方对抗张宾。最终，张宾及其同伙受到法律制裁。身受重伤的陈异向苗靖告白，两人终成眷属。",
-        "rating": 8.8,
-        "voteCount": 6,
-        "popularity": 10.9401,
-        "releaseDate": "2026-07-05",
-        "posterPath": "/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
-        "backdropPath": "/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
-        "mediaType": "tv",
-        "genreTitle": "剧情"
-      },
-      {
         "id": 287641,
         "type": "tmdb",
         "title": "耀眼",
@@ -637,6 +623,20 @@
         "releaseDate": "2026-05-27",
         "posterPath": "/e7osuQuioysDT7j0XnnHwvI87aY.jpg",
         "backdropPath": "/tUa9PJj8Rtre15W9XAaryFoctJZ.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
+      },
+      {
+        "id": 291392,
+        "type": "tmdb",
+        "title": "野狗骨头",
+        "description": "20世纪90年代，陈异和苗靖因父母的相识而结缘。起初陈异对苗靖充满敌意，直到一次受伤后，苗靖的善良让两人关系开始转变。然而好景不长，陈父去世、苗母消失，两家大人并未走到一起，两个孩子却不得不相依为命。来到大学，苗靖勇敢告白，陈异却被卷入纵火案，成为关键证人，为保护苗靖，他逼她离开了藤城，配合警方抓捕嫌犯。多年后，陈异经营着一家台球厅，苗靖则为了好运物流的审计工作回到藤城。两人重逢，陈异因当年纵火案，对好运老板张宾早就心存警惕，试图阻止苗靖前去工作未果。张宾的走私生意逐渐暴露，为保护苗靖，陈异只能以身入局，两人并肩作战，配合警方对抗张宾。最终，张宾及其同伙受到法律制裁。身受重伤的陈异向苗靖告白，两人终成眷属。",
+        "rating": 8.8,
+        "voteCount": 6,
+        "popularity": 10.9401,
+        "releaseDate": "2026-07-05",
+        "posterPath": "/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
+        "backdropPath": "/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
       },
@@ -653,20 +653,6 @@
         "backdropPath": "/h1bGO8w5hyn22DGNv0MOZKTog1X.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
-      },
-      {
-        "id": 214875,
-        "type": "tmdb",
-        "title": "汪汪队之小砾与工程家族",
-        "description": "还有什么比在工程车里养一只小狗更有趣的呢？ 很多工程车辆里都有很多小狗。小砾(Rubble)和他的家人——姨妈、爷爷、表兄弟姐妹等等——正在努力工作，让他们的小镇建造者湾成为一个非常适合居住的地方。",
-        "rating": 7.1,
-        "voteCount": 31,
-        "popularity": 20.4416,
-        "releaseDate": "2023-02-03",
-        "posterPath": "/5MA1tqT0yI57IlPBy0KRN6G2mhN.jpg",
-        "backdropPath": "/5SWWe369D4Fjs2RDVhMagNJLlps.jpg",
-        "mediaType": "tv",
-        "genreTitle": "动画,儿童"
       },
       {
         "id": 283952,
@@ -709,25 +695,25 @@
         "backdropPath": "/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
         "mediaType": "tv",
         "genreTitle": "剧情"
+      },
+      {
+        "id": 330364,
+        "type": "tmdb",
+        "title": "米良与麦青",
+        "description": "剧情围绕返乡大学生米良与新任村支书麦青展开，讲述两人为建设家乡进行探索和尝试，通过推行“放鹿归山”生态实践、开展“心灵环保”行动、组建“良心督察队”、建设蔬菜大棚等举措，历经重重磨难，最终带领村民实现生态与心灵双环保的故事。该剧以长春市双阳区鹿乡镇的梅花鹿产业为创作题材，取景地双阳区太平镇被打造为“鹿鸣村”影视基地，剧中融入了东北乡村风貌、人才引进、乡村环境整治等元素",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 1.5755,
+        "releaseDate": "2026-07-31",
+        "posterPath": "/jg4ggctGpf3O3xBrYaJwCwxt9ZR.jpg",
+        "backdropPath": "/dULlXXgjiWczum9UqvJJsEFnPH9.jpg",
+        "mediaType": "tv",
+        "genreTitle": "剧情"
       }
     ]
   },
   "show": {
     "全网": [
-      {
-        "id": 331649,
-        "type": "tmdb",
-        "title": "大哥小助理",
-        "description": "两位50+娱乐圈前辈组成“经纪团” ，每期为一位具有代表性的年轻后辈艺人担任“一日经纪人”全面负责艺人一天的行程安排与服务，从接送机、行程对接、妆发准备到工作陪伴、突发危机处理。两位经纪人需动用自己的人生智慧和圈内经验，为服务艺人保驾护航。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 5.3115,
-        "releaseDate": "2026-08-14",
-        "posterPath": "/bvWiTB9nHv2745RJepx4jfuhkjM.jpg",
-        "backdropPath": "/lNAnwytYKugxKWZosYmXvcrV4iU.jpg",
-        "mediaType": "tv",
-        "genreTitle": "真人秀"
-      },
       {
         "id": 297509,
         "type": "tmdb",
@@ -739,6 +725,20 @@
         "releaseDate": "2025-08-27",
         "posterPath": "/kDQYE6BunrxJ4sFHi69DwKVNnBK.jpg",
         "backdropPath": "/9kejOOsiuaIlXHTebKIgadlFhSZ.jpg",
+        "mediaType": "tv",
+        "genreTitle": "真人秀"
+      },
+      {
+        "id": 331649,
+        "type": "tmdb",
+        "title": "大哥小助理",
+        "description": "两位50+娱乐圈前辈组成“经纪团” ，每期为一位具有代表性的年轻后辈艺人担任“一日经纪人”全面负责艺人一天的行程安排与服务，从接送机、行程对接、妆发准备到工作陪伴、突发危机处理。两位经纪人需动用自己的人生智慧和圈内经验，为服务艺人保驾护航。",
+        "rating": 0,
+        "voteCount": 0,
+        "popularity": 5.3115,
+        "releaseDate": "2026-08-14",
+        "posterPath": "/bvWiTB9nHv2745RJepx4jfuhkjM.jpg",
+        "backdropPath": "/lNAnwytYKugxKWZosYmXvcrV4iU.jpg",
         "mediaType": "tv",
         "genreTitle": "真人秀"
       },
@@ -1223,48 +1223,6 @@
         "releaseDate": "2019-03-30",
         "posterPath": "/qQ221G1KxusTIotpTi4cxDk6O13.jpg",
         "backdropPath": "/IGYjrwnFCAL2UahS7E1myQE3JT.jpg",
-        "mediaType": "tv",
-        "genreTitle": "真人秀"
-      },
-      {
-        "id": 331569,
-        "type": "tmdb",
-        "title": "不想睡的星期五",
-        "description": "《不想睡的星期五》解锁不同城市夜生活玩法，打造最具城市灵魂的夜间大事件，每一夜都有新发现！全新定义新奇五夜生活，打造可复制的“最夯青年夜生活图鉴”。拒绝白天社会人面具，直击当代青年集体共鸣——夜晚不是一天的终点，而是属于“我自己”的新起点！",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 2.4964,
-        "releaseDate": "2026-08-14",
-        "posterPath": "/nKDqMAdAO6HQoe0eqIbH99ldcCQ.jpg",
-        "backdropPath": "/y8kPD0sQqlL8lo7oYZVtYWP330Y.jpg",
-        "mediaType": "tv",
-        "genreTitle": "真人秀"
-      },
-      {
-        "id": 331587,
-        "type": "tmdb",
-        "title": "伦敦合伙人",
-        "description": "《伦敦合伙人》是由湖南卫视、芒果TV、小芒联合出品的青春合伙人开店创业真人秀。此次，合伙人们将进一步深入更全面真实的经营生态，全力助推国货出海，打造汇聚中国品牌的特色门店，从巴黎到伦敦，从深度筹备到实战经营，让东方美学跨越山海，向世界展现中国品牌的力量。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 1.7075,
-        "releaseDate": "2026-08-08",
-        "posterPath": "/a6D6QHnWQTTNGAmllEmIZ0HTiV9.jpg",
-        "backdropPath": "",
-        "mediaType": "tv",
-        "genreTitle": "真人秀"
-      },
-      {
-        "id": 330052,
-        "type": "tmdb",
-        "title": "家乡美食大赛",
-        "description": "《家乡美食大赛》是湖南卫视、芒果TV出品，京东联合出品的美食综艺节目，总导演、制片人为王梓睿 ，由黄晓明担任首席掌勺官，李维嘉、沈梦辰担任掌勺主理人 。",
-        "rating": 0,
-        "voteCount": 0,
-        "popularity": 0.795,
-        "releaseDate": "2026-07-26",
-        "posterPath": "/1ZOAVVMtbtnDmBxwlzfv8iU53ZP.jpg",
-        "backdropPath": "",
         "mediaType": "tv",
         "genreTitle": "真人秀"
       }
